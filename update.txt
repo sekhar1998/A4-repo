@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This is my update" 
 "this is second update"
 =======
+>>>>>>> data
+=======
+"this is me"
 >>>>>>> data
